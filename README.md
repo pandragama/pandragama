@@ -21,7 +21,7 @@ Hubungan antara volt, ampere, dan watt dijelaskan oleh rumus berikut:
 ` Daya (W) = Tegangan (V) * Arus (A) `
 
 Dalam rumus ini:
-- Jika Anda mengetahui dua dari tiga besaran ini, Anda dapat menghitung yang ketiga.
+- Jika Kita mengetahui dua dari tiga besaran ini, Kita dapat menghitung yang ketiga.
 - Misalnya, jika tegangan (V) dan arus (A) diketahui, daya (W) dapat dihitung.
 - Jika daya (W) dan tegangan (V) diketahui, arus (A) dapat dihitung, dan seterusnya.
 
