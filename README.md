@@ -50,4 +50,4 @@ Dalam rumus ini:
 Volt, ampere, dan watt adalah besaran dasar yang saling berkaitan dalam kelistrikan, dan mereka digunakan untuk menggambarkan tegangan, arus, dan daya listrik. Selain itu, besaran-besaran seperti ohm, coulomb, farad, dan henry juga memainkan peran penting dalam analisis dan desain sistem listrik.
 
 ![enter image description here](https://github.com/pandragama/pandragama/blob/main/img/me_when_programming.png?raw=true)
-Terimakasih ChatGPT 👍
+Terimakasih ChatGPT 👍🏾
