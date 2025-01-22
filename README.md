@@ -12,7 +12,7 @@
 ## 📂 Recent Projects
 ### 🔶 **Billiards & Cafe Management with IoT System `(private)`**
 - **Role:** Full-stack Developer  
-- **Description:** Mengembangkan aplikasi manajemen berbasis web yang terintegrasi dengan sistem IoT untuk pengelolaan real-time operasi biliard dan kafe.  
+- **Description:** Mengembangkan aplikasi manajemen berbasis web yang terintegrasi dengan sistem IoT untuk pengelolaan real-time operasi biliar dan kafe.  
 - **Tech Stack:** Laravel, MySQL, Inertia.js, React, Pusher
 
 ### 🔶 [**FinBites Autofeeder Controller `(public)`**](https://github.com/pandragama/autofeeder-web-control)
@@ -22,7 +22,7 @@
 
 ---
 
-## 📖 Educations
+## 📖 Formal Educations
 - **Informatics**, Telkom University Surabaya `(in progress)`
   - Fokus pada Pengembangan Perangkat Lunak dan Kecerdasan Buatan  
   - Relevant Courses: Struktur Data, Pemrograman Teroptimasi, Implementasi dan Pengujian PL, Kecerdasan Buatan
