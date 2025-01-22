@@ -45,7 +45,7 @@
 ---
 
 ## 📈 GitHub Stats
-[![Dark - GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandragama&theme=dark&show_icons=true&hide_border=true&bg_color=00000000&count_private=true#gh-dark-mode-only)](https://github.com/pandragama/github-readme-stats#gh-dark-mode-only)
-[![Light - GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandragama&theme=graywhite&show_icons=true&hide_border=true&bg_color=00000000&count_private=true#gh-light-mode-only)](https://github.com/pandragama/github-readme-stats#gh-light-mode-only)
-[![Dark - Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandragama&theme=dark&show_icons=true&hide_border=true&&bg_color=00000000&layout=compact&count_private=true#gh-dark-mode-only)](https://github.com/pandragama/github-readme-stats#gh-dark-mode-only)
-[![Light - Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandragama&theme=graywhite&show_icons=true&hide_border=true&&bg_color=00000000&layout=compact&count_private=true#gh-light-mode-only)](https://github.com/pandragama/github-readme-stats#gh-light-mode-only)
+[![Dark - GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandragama&theme=dark&show_icons=true&hide_border=true&bg_color=00000000#gh-dark-mode-only)](https://github.com/pandragama/github-readme-stats#gh-dark-mode-only)
+[![Light - GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandragama&theme=graywhite&show_icons=true&hide_border=true&bg_color=00000000#gh-light-mode-only)](https://github.com/pandragama/github-readme-stats#gh-light-mode-only)
+[![Dark - Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandragama&theme=dark&show_icons=true&hide_border=true&&bg_color=00000000&layout=compact#gh-dark-mode-only)](https://github.com/pandragama/github-readme-stats#gh-dark-mode-only)
+[![Light - Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pandragama&theme=graywhite&show_icons=true&hide_border=true&&bg_color=00000000&layout=compact#gh-light-mode-only)](https://github.com/pandragama/github-readme-stats#gh-light-mode-only)
