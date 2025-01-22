@@ -1,53 +1,49 @@
-# Sekilas Tentang Volt, Ampere, Watt, dan Besaran Listrik Lainnya
+# 🤫 Pandu Rafa Panatagama - Lifelong Learner
 
-## Volt (V)
-- Volt adalah satuan tegangan listrik atau beda potensial listrik.
-- Mengukur "tekanan" yang mendorong aliran listrik dalam rangkaian listrik.
-- 1 Volt didefinisikan sebagai perbedaan potensial yang akan mendorong arus listrik 1 ampere melalui hambatan 1 ohm.
+---
 
-## Ampere (A)
-- Ampere adalah satuan arus listrik.
-- Mengukur jumlah muatan listrik yang mengalir melalui titik dalam rangkaian per satuan waktu.
-- 1 Ampere didefinisikan sebagai aliran 1 coulomb muatan per detik.
+## 🛠️ Skills
+- **Languages:** C, C++, JavaScript, PHP, SQL, Python
+- **Frameworks/Libraries:** Laravel, React, Inertia.js, PHPUnit
+- **Tools:** Git, Katalon, Postman
 
-## Watt (W)
-- Watt adalah satuan daya listrik.
-- Mengukur laju konsumsi energi listrik.
-- 1 Watt didefinisikan sebagai laju di mana pekerjaan dilakukan ketika satu ampere arus mengalir melalui perbedaan potensial satu volt (1 W = 1 V × 1 A).
+---
 
-## Hubungan Antara Volt, Ampere, dan Watt
-Hubungan antara volt, ampere, dan watt dijelaskan oleh rumus berikut:
+## 📂 Recent Projects
+### 🔶 [**FinBites Autofeeder Controller `(public)`**](https://github.com/pandragama/autofeeder-web-control)
+- **Role:** Full-stack Developer  
+- **Description:** Mengembangkan sistem kontrol otomatis untuk pemberian pakan ikan menggunakan mikrokontroler dan sensor, memungkinkan penjadwalan dan pemantauan jarak jauh melalui antarmuka web.  
+- **Tech Stack:** Laravel, MySQL
 
-` Daya (W) = Tegangan (V) * Arus (A) `
+### 🔶 **Billiards & Cafe Management with IoT System `(private)`**
+- **Role:** Full-stack Developer  
+- **Description:** Mengembangkan aplikasi manajemen berbasis web yang terintegrasi dengan sistem IoT untuk pengelolaan real-time operasi biliard dan kafe.  
+- **Tech Stack:** Laravel, MySQL, Inertia.js, React, Pusher
 
-Dalam rumus ini:
-- Jika Kita mengetahui dua dari tiga besaran ini, Kita dapat menghitung yang ketiga.
-- Misalnya, jika tegangan (V) dan arus (A) diketahui, daya (W) dapat dihitung.
-- Jika daya (W) dan tegangan (V) diketahui, arus (A) dapat dihitung, dan seterusnya.
+---
 
-## Besaran Listrik Lainnya
+## 📖 Educations
+- **Informatics**, Institut Teknologi Telkom Surabaya `(in progress)`
+  - Fokus pada Pengembangan Perangkat Lunak dan Kecerdasan Buatan  
+  - Relevant Courses: Struktur Data, Pemrograman Teroptimasi, Implementasi dan Pengujian PL, Kecerdasan Buatan
 
-### Ohm (Ω)
-- Satuan resistansi atau hambatan listrik.
-- Mengukur seberapa banyak sebuah benda menghambat aliran arus listrik.
-- Hukum Ohm menyatakan hubungan antara tegangan (V), arus (I), dan resistansi (R): ` V = I * R `.
+- **Software Engineering**, SMK Negeri 2 Surabaya `(graduated)`  
+  - Fokus pada Perancangan dan Pengembangan Perangkat Lunak
+  - Relevant Courses: Pemrograman Berorientasi Objek, Basis Data, Pemrograman Web, Komputer Jaringan
 
-### Coulomb (C)
-- Satuan muatan listrik.
-- 1 Coulomb setara dengan muatan listrik yang mengalir dalam 1 detik oleh arus sebesar 1 ampere.
+---
 
-### Farad (F)
-- Satuan kapasitansi.
-- Mengukur kemampuan sebuah kapasitor untuk menyimpan muatan listrik.
-- 1 Farad adalah kapasitansi sebuah kapasitor yang menyimpan 1 coulomb muatan dengan beda potensial 1 volt.
+## 🌐 Connect with Me
+- **Instagram:** [instagram.com/pandurpg](https://www.instagram.com/pandurpg)
+- **Email:** pan2rafa@gmail.com
 
-### Henry (H)
-- Satuan induktansi.
-- Mengukur kemampuan sebuah induktor untuk menyimpan energi dalam medan magnet ketika arus listrik mengalir melaluinya.
-- 1 Henry adalah induktansi sebuah induktor yang menghasilkan gaya gerak listrik sebesar 1 volt ketika arus listrik yang melalui induktor berubah sebesar 1 ampere per detik.
+---
 
-## Kesimpulan
-Volt, ampere, dan watt adalah besaran dasar yang saling berkaitan dalam kelistrikan, dan mereka digunakan untuk menggambarkan tegangan, arus, dan daya listrik. Selain itu, besaran-besaran seperti ohm, coulomb, farad, dan henry juga memainkan peran penting dalam analisis dan desain sistem listrik.
+## 🏆 Certification
+- **Social Media Marketing (BNSP)** (2024)  
 
-![enter image description here](https://github.com/pandragama/pandragama/blob/main/img/me_when_programming.png?raw=true)
-Terimakasih ChatGPT 👍🏾
+---
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pandragama&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandragama&layout=compact&theme=radical)
