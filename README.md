@@ -18,7 +18,7 @@
 ### 🔶 [**FinBites Autofeeder Controller `(public)`**](https://github.com/pandragama/autofeeder-web-control)
 - **Role:** Full-stack Developer  
 - **Description:** Mengembangkan sistem kontrol otomatis untuk pemberian pakan ikan menggunakan mikrokontroler dan sensor, memungkinkan penjadwalan dan pemantauan jarak jauh melalui antarmuka web.  
-- **Tech Stack:** Laravel, MySQL, Blade
+- **Tech Stack:** Laravel, MySQL, Blade, Express.js
 
 ---
 
